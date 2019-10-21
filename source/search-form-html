@@ -54,7 +54,7 @@ footer {
 
 <h1 class="Title" style="text-align: center;">Custom Search Engine</h1>
 
-    <h3 class="Subtitle">Use the DuckDuckGo Instant Answer API to get answer for your searches without always needing to click on a result</h3>
+    <h3 class="Subtitle">Use the DuckDuckGo Instant Answer API to get answers for your searches without always needing to click on a result</h3>
     <body>
         <form action="https://www.wolframcloud.com/obj/jessed/searchForm" method="POST">
             <input class="InputField" type="text" name="query" placeholder="What would you like to know?" required>
